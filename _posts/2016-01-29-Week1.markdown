@@ -1,0 +1,33 @@
+CS371p Spring 2016 - Amnah Afzal
+================================
+
+
+This Week
+---------
+
+This past week I started on the requirements for our first project. I am pretty new to git, hence, setting up everything is taking some time. Also, I read the two papers assigned to us for Wednesday 26th. They were quite interesting and informative, something, I feel, all CS majors should read at the beginning of their degree. Moreover, I spent some time in setting up everything for this blog.
+
+Obstacles
+---------
+
+Obstacles seem to be mismanagement of time and difficulty in mastering the new tools. But hopefully by next week I will have better control over things.
+ 
+Next Week
+---------
+
+In the upcoming week, my plan is to continue with the project requirements (start by writing a simple solution and creating test files) and do the assigned readings.
+
+Class Experience 
+---------------- 
+
+This class seems challenging, as we are required to use a lot of different and new tools for our assignments. Which seems intimidating, however, at the same time, I am really appreciating all the new information and the learning potential this class seems to offer. The fact that there is a quiz in every class actually encourages me to read and study before my next class. Hence, it helps keep me up to date with the flow of the class. Also, the thought that I might be the next person to be called upon urges me to pay attention and stay focused in class.
+  
+Tip-of-the-week
+---------------
+
+Since I am new to most of the material, the two tips I have are: do not be hesitant in asking for help if you get stuck at some point. Also, while setting up this blog, a friend of mine told me about a site that helped in formatting the headers in markdown for my post. Here is the link http://daringfireball.net/projects/markdown/syntax#header. Might come in handy!
+
+
+
+<img src="../../../photo1.jpg">
+

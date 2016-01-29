@@ -1,0 +1,12 @@
+# Site settings
+title: CS371p Spring 2016 - Amnah Afzal
+email: amnah.afzal@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Computer Science | Class of 2016 | University of Texas at Austin
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  amnahAz
+
+# Build settings
+markdown: kramdown
