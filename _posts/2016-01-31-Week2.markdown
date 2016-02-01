@@ -1,0 +1,31 @@
+CS371p Spring 2016 - Amnah Afzal
+================================
+
+Week2 
+-----
+
+This past week I wrote unit tests for the project and tried to generate the acceptance tests. I also started on the eval function in Collatz.c++. Moreover, I added more issues (code related) and learned how to close them when committing, a feature, which I found very convenient and useful. I skimmed through the chapters for our reading for Friday. It helped me recall my data structure learning about abstraction and inheritance. 
+
+Obstacles
+---------- 
+
+My obstacle is still trying to get used to handling the tools required for the project. But, thankfully getting the hang of it. I do not seem to be as lost as the first week. 
+
+Next Week
+----------
+
+The plan for the next week is to finish up the project. Check and make sure all the requirements are fulfilled and everything builds and it is turned in on time.
+
+Class Experience
+----------------
+
+The experience of the class is definitely getting better and better. The initial classes were much more terrifying with all the new tools and software we were required to learn for the first project. It was a bit overwhelming, but as I started learning and searching around, things started making more sense.I am also enjoying class lectures. We are learning some interesting features about c++ and java that make you appreciate these languages more and their useful impact on a larger scale say for example when withdrawing money from an ATM machine.
+
+Tip-of- the-week
+---------------- 
+
+For those who are new to C++, http://www.tutorialspoint.com/cplusplus/ might be helpful. 
+
+
+<img src="../../../photo1.jpg">
+
