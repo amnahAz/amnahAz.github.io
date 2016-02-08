@@ -1,0 +1,31 @@
+CS371p Spring 2016 - Amnah Afzal
+================================
+
+This Week
+---------
+
+This past week, I mostly worked on finishing the project. Making sure all the requirements were fulfilled and that my program was passing most of the public tests and mine. Also, finally downloaded Sublime on my machine, which made working on the project a lot easier. Although the requirements took some time, I learnt a lot of new tools and software. Moreover, read the pair-programming article for the class. It talked about how experiments showed that pair/group programming showed better results than individual programming. So looking forward to working with a partner. Hopefully, the stress will lessen with a partner too. 
+
+Obstacles
+---------
+
+I find time management is still one of my greatest obstacles.  
+
+Next Week
+---------
+
+Plan for next week is to do the readings for the classes and to review Google doc. Also, work on my time management and start on Project 2 early.  
+ 
+Class Experience 
+---------------- 
+
+Class is going pretty good. I am really learning the meaning behind the basic functions in languages. Moreover, I think I can safely say now that I have finally understood what a pointer is and what it means to dereference it. But it is really fascinating and helpful to know what is happening underneath and how just writing in a different way can affect the result so much.    
+
+Tip-of-the-week
+---------------
+
+My tip of the week is that do try group studying. It really helps to boost your confidence and creates a sense of comradeship when everyone pools his or her intellect and resources to solve a problem together.
+
+
+<img src="../../../photo1.jpg">
+
