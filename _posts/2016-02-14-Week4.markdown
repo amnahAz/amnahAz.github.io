@@ -1,0 +1,31 @@
+S371p Spring 2016 - Amnah Afzal
+================================
+
+This Week
+---------
+
+This past week, I read the articles on Ariane 5(Rocket) and Mariner 1(Spacecraft). The articles described how the crashes were related to, fitting a 64-bit number in a 16-bit and omission of a hyphen. At the coding level, these errors may seem small and careless. But it makes one realize how the same small piece of code can have such a large adverse impact when actually put to use, if not implemented correctly. In addition to the articles, I also started working on Project 2 with a partner. We set up the initial requirements and are working on unit tests currently.   
+
+Obstacles
+---------
+
+In this project, I am struggling with finding and using the correct data structures in C++.  
+
+Next Week
+---------
+
+Plan for next week is to do the readings for the classes, finish up the project and make sure all requirements are fulfilled.  
+ 
+Class Experience 
+---------------- 
+
+Class is going good. This week was a bit different as we had a guest speaker, Ben Porter. It was exciting to meet him, as he is the first official UTCS graduate I have met. He talked about his postgraduate experience and his current job at Main Street Hub. He also shared some advice in the end; one in particular that stuck with me was, it is okay to be a newbie. I guess I could relate to it the most as I often find my self in newbie situations. Getting that encouragement from a former UTCS grad helped raise my spirits a bit. 
+
+Tip-of-the-week
+---------------
+
+A friend of mine told me about this site, which helped me edit and transfer my files easily through sublime to CS lab machines 
+ https://wbond.net/sublime_packages/sftp  
+
+
+<img src="../../../photo1.jpg">
